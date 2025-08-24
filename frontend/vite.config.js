@@ -6,8 +6,3 @@ export default defineConfig({
   plugins: [react()],
 })
 
-exclude:
-  - node_modules
-  - README.md
-  - draft-posts/
-  - scripts
